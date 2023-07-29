@@ -1,0 +1,19 @@
+{
+  "name": "convert-heritage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node convert.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
